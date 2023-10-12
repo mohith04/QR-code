@@ -1,4 +1,5 @@
-# Frontend Mentor #Crio.do - QR code component
+# Frontend Mentor 
+# Crio.do - QR code component
 
 ## Welcome! 👋
 
@@ -8,4 +9,4 @@ This is my first project using Git and HTML is something i really liked as i was
 
 I hope you will find this Front end of a QR code web page nice 
 
-##Thank you
+### Thank you
